@@ -6,7 +6,7 @@ This is a shell written in C. It is based on the Thompson Shell.
 
 Environment :
 
-Our shell was built and tested on Ubuntu 14.04 LTS.
+Our shell was built and tested on Ubuntu 20.04 LTS.
 
 Features
 
