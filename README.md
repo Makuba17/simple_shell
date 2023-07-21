@@ -1,10 +1,13 @@
 Simple shell in C
+
 Description :
 
 This is a shell written in C. It is based on the Thompson Shell.
+
 Environment :
 
 Our shell was built and tested on Ubuntu 14.04 LTS.
+
 Features
 
     Display a prompt and wait for the user to type a command. A command line always ends with a new line.
@@ -21,4 +24,8 @@ Features
     Handle the comments #
     Support the history feature
     Support the file input
+
+    Authors
+    Douglas Makuba
+    David 
  
